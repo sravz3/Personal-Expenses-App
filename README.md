@@ -53,9 +53,9 @@ To set up the app locally, follow these steps:
 ## ▶️ Usage
 
 To launch the app:
-
-```bash
-streamlit run main.py
+   ```bash
+   streamlit run main.py
+````
 
 Then open your browser to view the app (usually at http://localhost:8501).
 
